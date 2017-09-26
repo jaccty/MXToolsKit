@@ -1,0 +1,27 @@
+{
+  "name": "MXToolsKit",
+  "version": "1",
+  "summary": "A short description of MXToolsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXToolsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXToolsKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXToolsKit/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}
